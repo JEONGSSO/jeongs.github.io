@@ -1,4 +1,7 @@
+title: Hacker theme
+description: Hacker is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-hacker
 
-url                      : "https://jeongs.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : ""
+remote_theme : pages-themes/hacker
