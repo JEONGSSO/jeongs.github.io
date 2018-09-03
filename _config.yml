@@ -5,3 +5,5 @@ google_analytics:
 theme: jekyll-theme-hacker
 
 remote_theme : pages-themes/hacker
+url                      : "https://jeongsso.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
